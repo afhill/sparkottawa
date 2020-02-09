@@ -1,0 +1,120 @@
+@media (min-width: 1200px)
+.container {
+    max-width: 960px !important;
+}
+
+
+html, body {
+background-color: #fffff;
+font-family: "Roboto";
+}
+
+
+.container {
+    max-width: 960px;
+}
+
+h3,h4,h5,h6 {
+font-weight: 500;
+}
+
+h1,h2 {
+font-family: "Poppins";
+
+}
+
+
+.my-3 {
+
+	margin-top: 2.5rem !important;
+	margin-bottom: 2.5rem !important;
+}
+
+.bg-secondary {
+	background-color: #ffffc0 !important;
+}
+
+.bg-dark {
+	background-color: #4A5251 !important;
+}
+
+.bg-info-light {
+	background-color: #a5edf9 !important;
+}
+
+
+.nav-link i {
+	color: #4d5453;
+	font-size: 120%;
+	display: inline;
+}
+
+.feature-text {
+ font-size: 120%;
+}
+
+
+.jumbotron-head {
+background-color: #528294;
+background-image: url("img/bg.jpg");
+color: #fff;
+}
+
+.jumbotron-head h1 {
+  margin-top: 1rem!important;
+}
+
+.jumbotron-head p {
+  margin-bottom: 0!important;
+  text-decoration: italics;
+}
+
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+
+h4 {
+  line-height: 1.5;
+  margin-bottom: 1rem;
+
+}
+
+h4 strong {
+  font-family: "Poppins";
+  color: #528294;
+}
+
+a {
+  color: #4d5453;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #95B2BA;
+  color: #fff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+.btn-primary {
+ background-color: #528294;
+ color: #fff;
+ border-color: #528294;
+ text-decoration: none;
+}
+
+a.btn-primary:hover {
+  background-color: #0c74a8;
+  color: #fff;
+  border-color: #528294;
+  text-decoration: none;
+ }
